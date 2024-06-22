@@ -2,10 +2,10 @@
 
 # Bienvenido a mi perfil de GitHub
 
-Soy Ricardo, un apasionado ingeniero de software con experiencia en diversas tecnologías y habilidades. Me especializo en:
+Soy Ricardo, un apasionado ingeniero electrónico con experiencia en diversas tecnologías y habilidades. Me especializo en:
 
-- Desarrollo web con HTML, CSS, JavaScript, y frameworks como React.js y Vue.js.
-- Backend con Node.js, Express, y bases de datos como MongoDB y PostgreSQL.
+- Desarrollo web con HTML, CSS, JavaScript, y frameworks como React.js.
+- Backend con Node.js, Express, y bases de datos como MongoDB y PostgreSQL y Mysql.
 - Prácticas de desarrollo ágil y colaboración en equipos.
 
 ## Proyectos Destacados
