@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Bienvenido a mi perfil de GitHub
 
 Soy Ricardo, un apasionado ingeniero electrónico con experiencia en diversas tecnologías y habilidades. Me especializo en:
@@ -22,14 +20,14 @@ Aquí algunos de los proyectos en los que he trabajado recientemente:
 ### Barberia Alura
 
 - Proyecto desarrollado en el curso Principiante en Programación G6 - ONE de Alura Latam y Oracle Next Generation.
-- Tecnologías utilizadas: HTML5, CSS3 (sin Bootstrap u otras librerías).
+- Tecnologías utilizadas: HTML5.
 - [Repositorio](https://github.com/RicardoMoviles/Barberia-Alura)
 - [Página](https://ricardomoviles.github.io/Barberia-Alura/)
 
 ### Juego Secreto
 
 - Juego para adivinar un número generado aleatoriamente, creado durante el curso Principiante en Programación G6 - ONE de Alura Latam y Oracle Next Generation.
-- Tecnologías utilizadas: HTML5, CSS3 (sin Bootstrap u otras librerías).
+- Tecnologías utilizadas: HTML5, CSS3.
 - [Repositorio](https://github.com/RicardoMoviles/JuegoSecreto)
 - [Página](https://ricardomoviles.github.io/JuegoSecreto/)
 
