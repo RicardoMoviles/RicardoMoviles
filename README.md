@@ -14,31 +14,24 @@ Aquí algunos de los proyectos en los que he trabajado recientemente:
 
 ### SIMULA CDT
 
-Consiste en una calculadora de rendimientos de un CDT. El proyecyto fue realizado en el curso de JavaScript de la carrera de Desarrollo Backend de la plataforma Coderhouse
-
-Se realiza la estructura de la pagina en HTML5 y el estilo se maneja con CSS y Boostrap.
-La consulta de las tasas de interes para el funcionamiento del simulador se extraen de un archivo JSON mediante Fetch.
-
-Link repositorio: https://github.com/RicardoMoviles/ProyectoFinal-Restrepo
-Link de la pagina: https://ricardomoviles.github.io/ProyectoFinal-Restrepo/
+- Calculadora de rendimientos de un CDT desarrollada como proyecto del curso de JavaScript de la carrera de Desarrollo Backend de Coderhouse.
+- Tecnologías utilizadas: HTML5, CSS, Bootstrap, JavaScript (uso de Fetch para consultar tasas de interés desde un archivo JSON).
+- [Repositorio](https://github.com/RicardoMoviles/ProyectoFinal-Restrepo)
+- [Página](https://ricardomoviles.github.io/ProyectoFinal-Restrepo/)
 
 ### Barberia Alura
 
-Proyecto realizado en el curso Principiante en Programación G6 - ONE de Alura Latam y el programa Oracle Next Generation. 
-Se utiliza HTML5 y para el estilo unicamente CSS3 no se utiliza Boostrap o alguna otra libreria.
-
-Link repositorio: https://github.com/RicardoMoviles/Barberia-Alura
-Link de la pagina: https://ricardomoviles.github.io/Barberia-Alura/
+- Proyecto desarrollado en el curso Principiante en Programación G6 - ONE de Alura Latam y Oracle Next Generation.
+- Tecnologías utilizadas: HTML5, CSS3 (sin Bootstrap u otras librerías).
+- [Repositorio](https://github.com/RicardoMoviles/Barberia-Alura)
+- [Página](https://ricardomoviles.github.io/Barberia-Alura/)
 
 ### Juego Secreto
 
-Proyecto realizado en el curso Principiante en Programación G6 - ONE de Alura Latam y el programa Oracle Next Generation.
-Se utiliza HTML5 y para el estilo unicamente CSS3 no se utiliza Boostrap o alguna otra libreria.
-
-Consiste en un juego para adivinar un numero que se genera de manera aleatoria
-
-Link repositorio: https://github.com/RicardoMoviles/JuegoSecreto
-Link de la pagina: https://ricardomoviles.github.io/JuegoSecreto/
+- Juego para adivinar un número generado aleatoriamente, creado durante el curso Principiante en Programación G6 - ONE de Alura Latam y Oracle Next Generation.
+- Tecnologías utilizadas: HTML5, CSS3 (sin Bootstrap u otras librerías).
+- [Repositorio](https://github.com/RicardoMoviles/JuegoSecreto)
+- [Página](https://ricardomoviles.github.io/JuegoSecreto/)
 
 ## Contacto
 
