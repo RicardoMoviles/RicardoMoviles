@@ -30,6 +30,16 @@ Se utiliza HTML5 y para el estilo unicamente CSS3 no se utiliza Boostrap o algun
 Link repositorio: https://github.com/RicardoMoviles/Barberia-Alura
 Link de la pagina: https://ricardomoviles.github.io/Barberia-Alura/
 
+### Juego Secreto
+
+Proyecto realizado en el curso Principiante en Programación G6 - ONE de Alura Latam y el programa Oracle Next Generation.
+Se utiliza HTML5 y para el estilo unicamente CSS3 no se utiliza Boostrap o alguna otra libreria.
+
+Consiste en un juego para adivinar un numero que se genera de manera aleatoria
+
+Link repositorio: https://github.com/RicardoMoviles/JuegoSecreto
+Link de la pagina: https://ricardomoviles.github.io/JuegoSecreto/
+
 ## Contacto
 
 Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contactarme a través de [correo electrónico](mailto:ricar2011.medallo@gmail.com) o [LinkedIn](https://www.linkedin.com/in/r-restrepo/).
