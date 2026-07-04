@@ -37,6 +37,12 @@ Aquí algunos de los proyectos en los que he trabajado recientemente:
 - Tecnologías utilizadas: Java, JavaFX, FXML, Maven, JUnit y Mockito (siguiendo el patrón arquitectónico Model-View-Controller).
 - [Repositorio](https://github.com/RicardoMoviles/Math-Adventure)
 
+### Portal de Adopción de Mascotas
+
+* Proyecto académico enfocado en el desarrollo incremental de una plataforma web para la gestión de refugios caninos y la concientización sobre tenencia responsable.
+* Tecnologías utilizadas: HTML5, CSS3, JavaScript (implementando el marco metodológico PSP para el control de métricas de calidad y estimación de esfuerzo con el método PROBE).
+* [Repositorio](https://github.com/RicardoMoviles/proyecto-PSP)
+
 ## Contacto
 
 Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contactarme a través de [correo electrónico](mailto:ricar2011.medallo@gmail.com) o [LinkedIn](https://www.linkedin.com/in/r-restrepo/).
