@@ -31,6 +31,12 @@ Aquí algunos de los proyectos en los que he trabajado recientemente:
 - [Repositorio](https://github.com/RicardoMoviles/JuegoSecreto)
 - [Página](https://ricardomoviles.github.io/JuegoSecreto/)
 
+### Math Adventure
+
+- Proyecto académico enfocado en el desarrollo de un videojuego interactivo de matemáticas, implementando estándares profesionales de arquitectura y calidad de software.
+- Tecnologías utilizadas: Java, JavaFX, FXML, Maven, JUnit y Mockito (siguiendo el patrón arquitectónico Model-View-Controller).
+- [Repositorio](https://github.com/RicardoMoviles/Math-Adventure)
+
 ## Contacto
 
 Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contactarme a través de [correo electrónico](mailto:ricar2011.medallo@gmail.com) o [LinkedIn](https://www.linkedin.com/in/r-restrepo/).
