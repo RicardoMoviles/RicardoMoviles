@@ -39,9 +39,10 @@ Aquí algunos de los proyectos en los que he trabajado recientemente:
 
 ### Portal de Adopción de Mascotas
 
-* Proyecto académico enfocado en el desarrollo incremental de una plataforma web para la gestión de refugios caninos y la concientización sobre tenencia responsable.
-* Tecnologías utilizadas: HTML5, CSS3, JavaScript (implementando el marco metodológico PSP para el control de métricas de calidad y estimación de esfuerzo con el método PROBE).
-* [Repositorio](https://github.com/RicardoMoviles/proyecto-PSP)
+- Proyecto académico enfocado en el desarrollo incremental de una plataforma web para la gestión de refugios caninos y la concientización sobre tenencia responsable.
+- Tecnologías utilizadas: HTML5, CSS3, JavaScript (implementando el marco metodológico PSP para el control de métricas de calidad y estimación de esfuerzo con el método PROBE).
+- [Repositorio](https://github.com/RicardoMoviles/proyecto-PSP)
+- [Página](https://RicardoMoviles.github.io/proyecto-PSP/)
 
 ## Contacto
 
